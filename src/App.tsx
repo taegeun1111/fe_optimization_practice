@@ -1,7 +1,7 @@
 import classNames from 'classnames/bind'
 import { useEffect, useState } from 'react'
 import styles from './App.module.scss'
-import FullScreenMessage from './coponents/shared/FullScreenMessage'
+import FullScreenMessage from './components/shared/FullScreenMessage'
 
 const cx = classNames.bind(styles)
 
