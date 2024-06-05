@@ -5359,6 +5359,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"date-fns@npm:^3.6.0":
+  version: 3.6.0
+  resolution: "date-fns@npm:3.6.0"
+  checksum: 10/cac35c58926a3b5d577082ff2b253612ec1c79eb6754fddef46b6a8e826501ea2cb346ecbd211205f1ba382ddd1f9d8c3f00bf433ad63cc3063454d294e3a6b8
+  languageName: node
+  linkType: hard
+
 "debug@npm:*, debug@npm:4, debug@npm:^4.1.0, debug@npm:^4.1.1, debug@npm:^4.3.2, debug@npm:^4.3.3, debug@npm:^4.3.4":
   version: 4.3.4
   resolution: "debug@npm:4.3.4"
@@ -10319,6 +10326,7 @@ __metadata:
     "@types/testing-library__jest-dom": "npm:^5.14.9"
     classnames: "npm:^2.3.2"
     craco-alias: "npm:^3.0.1"
+    date-fns: "npm:^3.6.0"
     eslint: "npm:^8.46.0"
     eslint-config-prettier: "npm:^8.10.0"
     eslint-config-react-app: "npm:^7.0.1"

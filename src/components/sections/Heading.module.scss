@@ -1,3 +1,14 @@
 .container{
     background: antiquewhite;
+    text-align: center;
+    font-weight: bold;
+
+    .text-date{
+        font-size: 38px;
+        margin-bottom: 8px;
+    }
+
+    .text-day{
+        font-size: 17px;
+    }
 }
