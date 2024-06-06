@@ -1,7 +1,7 @@
 export interface Wedding {
   id: number
   date: string
-  location: string
+  location: Location
 
   message: {
     intro: string
